@@ -60,6 +60,5 @@ The dataset used in this project, `bank_merged.csv`, includes various features s
 
 ---
 
-**Author:** Your Name  
-**Contact:** your.email@example.com
-
+**Author:** Muhammed Zuhair  
+**Contact:** muhammedg.zuhair@gmail.com
